@@ -1,0 +1,101 @@
+/* Add a black background color to the top navigation */
+nav {
+  background-color: #4b0082;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+nav.site-nav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.site-nav a:hover {
+  background-color: #ffef00;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.site-nav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.container{
+  border: 2px soild gray;
+  padding: 2px;
+
+
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+h1 {
+  text-align: center;
+  padding: 10px;
+  color: #4b0082;
+  font-family: DejaVu Serif, condensed bold;
+  font-size: 48px;
+}
+
+.tagline{
+  font-family: Dejavu serif;
+  font-size: 20px;
+  color: grey;
+  margin: 10px;
+}
+
+.attractor, .intro{
+  font-family: georgia;
+  font-size: 16px;
+  line-height: 1.8;
+  margin: 20px;
+
+
+}
+/* .intro{
+  font-family: georgia;
+  font-size: 16px;
+  line-height: 1.8;
+  margin: 20px;
+
+} */
+
+h2{
+  font-family: DejaVu, bold;
+  margin: 10px;
+}
+
+.skills{
+  font-family: georgia;
+  line-height: 1.8;
+  margin: 20px;
+
+}
+.content{
+  margin: 23px;
+}
+
+.credits{
+  font-family: georgia;
+  margin: 20px;
+  line-height: 1.8;
+}
+
+.link{
+  text-decoration: none;
+  color: #378200;
+
+}
+h4{
+  margin:10px;
+}
+
+.resource{
+  margin-left: 1px;
+}
