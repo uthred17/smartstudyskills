@@ -42,6 +42,10 @@ h1 {
   font-family: DejaVu Serif, condensed bold;
   font-size: 48px;
 }
+.cite{
+  font-family: italic;
+
+}
 
 .tagline{
   font-family: Dejavu serif;
